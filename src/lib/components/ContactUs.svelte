@@ -10,7 +10,7 @@
 				<div class="contact-info-wrap">
 					<div class="contact-image-wrap d-flex flex-wrap">
 						<img
-							src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
+							src="images/avatar/man.webp"
 							class="img-fluid avatar-image"
 							alt=""
 						/>
@@ -26,7 +26,7 @@
 
 						<p class="d-flex mb-2">
 							<i class="bi-geo-alt me-2" />
-							1325 Hassell Dr, Hoffman Estates IL 60169
+							 1006 N Plum Grove Rd Unit 107 SCHAUMBURG IL 60173
 						</p>
 
 						<p class="d-flex mb-2">
@@ -52,7 +52,7 @@
 				<div class="contact-info-wrap">
 					<div class="contact-image-wrap d-flex flex-wrap">
 						<img
-							src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
+							src="images/avatar/man.webp"
 							class="img-fluid avatar-image"
 							alt=""
 						/>
@@ -68,7 +68,7 @@
 
 						<p class="d-flex mb-2">
 							<i class="bi-geo-alt me-2" />
-							1325 Hassell Dr, Hoffman Estates IL 60169
+							 1006 N Plum Grove Rd Unit 107 SCHAUMBURG IL 60173
 						</p>
 
 						<p class="d-flex mb-2">

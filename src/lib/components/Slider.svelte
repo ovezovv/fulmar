@@ -43,7 +43,7 @@
 							<img src="images/chemistry.jpg" class="carousel-image img-fluid" alt="..." />
 
 							<div class="carousel-caption d-flex flex-column justify-content-end">
-								<h1>Chemistry</h1>
+								<h1>Fertilizers</h1>
 								<p>Sulfur, Urea - 46</p>
 							</div>
 						</div>

@@ -14,7 +14,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-10 col-12 text-center mx-auto">
-						<h2 class="mb-5">Welcome to Kind Heart Charity</h2>
+						<h2 class="mb-5">Welcome to Fulmar International</h2>
 					</div>
 
 					<div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
@@ -129,7 +129,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-12 text-center mb-4">
-						<h2>Our Causes</h2>
+						<h2>Our Services</h2>
 					</div>
 
 					<div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
@@ -145,31 +145,9 @@
 									<h5 class="mb-3">Children Education</h5>
 
 									<p>Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito</p>
-
-									<div class="progress mt-4">
-										<div
-											class="progress-bar w-75"
-											role="progressbar"
-											aria-valuenow="75"
-											aria-valuemin="0"
-											aria-valuemax="100"
-										/>
-									</div>
-
-									<div class="d-flex align-items-center my-2">
-										<p class="mb-0">
-											<strong>Raised:</strong>
-											$18,500
-										</p>
-
-										<p class="ms-auto mb-0">
-											<strong>Goal:</strong>
-											$32,000
-										</p>
-									</div>
 								</div>
 
-								<a href="donate.html" class="custom-btn btn">Donate now</a>
+								<a href="donate.html" class="custom-btn btn">Read more...</a>
 							</div>
 						</div>
 					</div>
@@ -190,31 +168,9 @@
 										Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus
 										tempor
 									</p>
-
-									<div class="progress mt-4">
-										<div
-											class="progress-bar w-50"
-											role="progressbar"
-											aria-valuenow="50"
-											aria-valuemin="0"
-											aria-valuemax="100"
-										/>
-									</div>
-
-									<div class="d-flex align-items-center my-2">
-										<p class="mb-0">
-											<strong>Raised:</strong>
-											$27,600
-										</p>
-
-										<p class="ms-auto mb-0">
-											<strong>Goal:</strong>
-											$60,000
-										</p>
-									</div>
 								</div>
 
-								<a href="donate.html" class="custom-btn btn">Donate now</a>
+								<a href="donate.html" class="custom-btn btn">Read more...</a>
 							</div>
 						</div>
 					</div>
@@ -235,31 +191,9 @@
 										Orci varius natoque penatibus et magnis dis parturient montes, nascetur
 										ridiculus
 									</p>
-
-									<div class="progress mt-4">
-										<div
-											class="progress-bar w-100"
-											role="progressbar"
-											aria-valuenow="100"
-											aria-valuemin="0"
-											aria-valuemax="100"
-										/>
-									</div>
-
-									<div class="d-flex align-items-center my-2">
-										<p class="mb-0">
-											<strong>Raised:</strong>
-											$84,600
-										</p>
-
-										<p class="ms-auto mb-0">
-											<strong>Goal:</strong>
-											$100,000
-										</p>
-									</div>
 								</div>
 
-								<a href="donate.html" class="custom-btn btn">Donate now</a>
+								<a href="donate.html" class="custom-btn btn">Read more...</a>
 							</div>
 						</div>
 					</div>
@@ -510,7 +444,7 @@
 
 					<p class="text-white d-flex mt-3">
 						<i class="bi-geo-alt me-2" />
-						Akershusstranda 20, 0150 Oslo, Norway
+						1006 N Plum Grove Rd Unit 107 SCHAUMBURG IL 60173
 					</p>
 
 					<a href="#" class="custom-btn btn mt-3">Get Direction</a>
@@ -523,9 +457,7 @@
 				<div class="row">
 					<div class="col-lg-6 col-md-7 col-12">
 						<p class="copyright-text mb-0">
-							Copyright © 2036 <a href="#">Kind Heart</a> Charity Org. Design:
-							<a href="https://templatemo.com" target="_blank">TemplateMo</a><br />Distribution:
-							<a href="https://themewagon.com">ThemeWagon</a>
+							Copyright © {new Date().getFullYear()} <a href="#">Fulmar International</a>
 						</p>
 					</div>
 
@@ -536,21 +468,11 @@
 							<li class="social-icon-item">
 								<a href="#" class="social-icon-link bi-twitter" />
 							</li>
-
-							<li class="social-icon-item">
-								<a href="#" class="social-icon-link bi-facebook" />
-							</li>
-
 							<li class="social-icon-item">
 								<a href="#" class="social-icon-link bi-instagram" />
 							</li>
-
 							<li class="social-icon-item">
 								<a href="#" class="social-icon-link bi-linkedin" />
-							</li>
-
-							<li class="social-icon-item">
-								<a href="https://youtube.com/templatemo" class="social-icon-link bi-youtube" />
 							</li>
 						</ul>
 					</div>

@@ -4,7 +4,7 @@
 			<div class="col-lg-8 col-12 d-flex flex-wrap">
 				<p class="d-flex me-4 mb-0">
 					<i class="bi-geo-alt me-2" />
-					1325 Hassell Dr, Hoffman Estates IL 60169
+					1006 N Plum Grove Rd Unit 107 SCHAUMBURG IL 60173
 				</p>
 
 				<p class="d-flex mb-0">
@@ -69,7 +69,7 @@
 <nav class="navbar navbar-expand-lg bg-light shadow-lg">
 	<div class="container">
 		<a class="navbar-brand" href="index.html">
-			<img src="images/logo.png" class="logo img-fluid" alt="Kind Heart Charity" />
+			<img src="images/logo.png" class="logo img-fluid" alt="Fulmar International" />
 			<span>Fulmar <br /> International</span>
 		</a>
 
